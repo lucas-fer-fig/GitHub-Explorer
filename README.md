@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="./public/github_explorer_logo.svg" width="50%" height="50%">
+    <img src="./public/github_explorer_logo.svg" width="40%" height="40%">
 </p>
 
 <h3 align="center">
-    Easily find repositories you want
+    Easily find repositories that you want
 </h3>
 
 ## Overview

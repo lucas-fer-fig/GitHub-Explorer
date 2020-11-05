@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://lucas-fer-fig.github.io/GitHub-Explorer" target="_blank" rel="noopener noreferrer">
+    <a target="_blank" rel="noopener noreferrer" href="https://lucas-fer-fig.github.io/GitHub-Explorer">
         <img src="./github_explorer_logo.svg" width="40%" height="40%">
     </a>
 </p>

@@ -14,6 +14,12 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/lucas-fer-fig/GitHub-Explorer?color=blue">
 </p>
 
+## Technologies
+
+- [Node](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
+- [Yarn](https://yarnpkg.com/)
+
 ## Overview
 
 An application that helps searching for repositories on github. Application developed at Bootcamp GoStack from Rocketseat.
